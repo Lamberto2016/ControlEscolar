@@ -17,4 +17,7 @@ RNF003: El sistema debe ser seguro.
 Listas de caso de uso:
 CU001: Registrar alumno.
 CU002: Imprimir cardex.
-CU003: 
+CU003: Cargar materias
+
+Concluciones:
+Este sistema sirve para gestionar los servicios del departamento de control escolar.
