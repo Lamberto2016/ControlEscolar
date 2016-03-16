@@ -1,2 +1,10 @@
 Practica Git
 Prectica segundo commit
+Tercera practica
+
+Documentos de requisitos v1.0
+
+Requisitos funcionales:
+RF001: El sistema debe permitir el registro de alumnos
+RF002: El sistema debe imprimir reporte de calificaciones
+RF003: El sistema debe permitir la carga de materias.
